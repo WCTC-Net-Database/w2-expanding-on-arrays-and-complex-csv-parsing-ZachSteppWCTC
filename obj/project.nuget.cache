@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "0q/I8HIISAc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Zach\\Desktop\\Week 2 DotNet Assignment\\w2-expanding-on-arrays-and-complex-csv-parsing-ZachSteppWCTC\\W2-assignment-template.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Zach\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.33\\microsoft.windowsdesktop.app.ref.6.0.33.nupkg.sha512",
+    "C:\\Users\\Zach\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.33\\microsoft.netcore.app.ref.6.0.33.nupkg.sha512",
+    "C:\\Users\\Zach\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.33\\microsoft.aspnetcore.app.ref.6.0.33.nupkg.sha512",
+    "C:\\Users\\Zach\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.33\\microsoft.netcore.app.host.win-x64.6.0.33.nupkg.sha512"
+  ],
+  "logs": []
+}
